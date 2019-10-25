@@ -6,7 +6,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 /**
- * This program reads UTF-8 encoded strings from a binary file.
+ * This program reads data in various types from a binary file.
  *
  * !!!Run WriteMixed.java First!!!
  *
