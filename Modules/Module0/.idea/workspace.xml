@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d07bee79-f47a-463c-b275-244bc432d45f" name="Default Changelist" comment="" />
+    <list default="true" id="194049e2-1fc5-4f8c-b716-54cf46410b83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Payroll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Zodiac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example1_ConsoleOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example2_Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example3_Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example4_Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example5_ConcatAndAppend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example6_KeyboardInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example7_EscapeSequences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example8_FormattedPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example1_Arithmetic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example2_AugmentedAssignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example3_Narrowing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example4_Widening.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example5_MixedInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example6_MathExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example7_ParsingNumbersFromStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_decisions/Example1_RelationalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_decisions/Example2_LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_decisions/Example3_IfStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_decisions/Example4_ElseClauses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_decisions/Example5_ElseIfClauses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_decisions/Example6_StringComparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_decisions/Example7_Switches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_decisions/Example8_InlineIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/d_loops/Example1_WhileLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/d_loops/Example2_DoWhileLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/d_loops/Example3_Increment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/d_loops/Example4_Decrement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/d_loops/Example5_ForLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/d_loops/Example6_NestedLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/d_loops/Example7_LoopBranching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/d_loops/Example8_InfiniteForLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/d_loops/Example9_InfiniteWhileLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/e_random_numbers/Example1_Random.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/e_random_numbers/Example2_CoinToss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/e_random_numbers/Example3_Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/e_random_numbers/Example4_DiceSim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/f_arrays/ArrayExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/g_iteration/ForEachLoopIteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/g_iteration/ForLoopIteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/h_arrays_and_methods/ArrayArguments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/h_arrays_and_methods/ReturningArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/h_arrays_and_methods/VarArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/i_common_array_operations/ArrayCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/i_common_array_operations/ArrayDecreaseSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/i_common_array_operations/ArrayEquality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/i_common_array_operations/ArrayIncreaseSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/j_multidimensional_arrays/MultidimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/j_multidimensional_arrays/MultidimensionalArrays2.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,37 +61,37 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Module0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module0" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Community College of Philadelphia/Courses/CSCI211/Modules/Module3" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576790552280" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../CSCI211/Modules/Module3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hacke\Documents\CCP\CSCI112\NoVCS\Module0\src" />
+      <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI112\GIT\Modules\Module0\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -54,21 +106,41 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="PyramidTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SampleCode.a_pyramid.PyramidTest" />
+      <module name="Module0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SampleCode.a_pyramid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PyramidTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d07bee79-f47a-463c-b275-244bc432d45f" name="Default Changelist" comment="" />
-      <created>1570397061891</created>
+      <changelist id="194049e2-1fc5-4f8c-b716-54cf46410b83" name="Default Changelist" comment="" />
+      <created>1576790464183</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570397061891</updated>
+      <updated>1576790464183</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -76,15 +148,16 @@
       <window_info id="DB Browser" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -98,6 +171,22 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SampleCode/a_pyramid/PyramidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

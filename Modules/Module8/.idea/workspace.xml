@@ -1,7 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb850838-2b09-46ac-9b1d-489d1be5bcba" name="Default Changelist" comment="" />
+    <list default="true" id="cb850838-2b09-46ac-9b1d-489d1be5bcba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Module0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/Labs/Payroll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/Labs/Zodiac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/a_basics/Example1_ConsoleOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/a_basics/Example2_Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/a_basics/Example3_Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/a_basics/Example4_Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/a_basics/Example5_ConcatAndAppend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/a_basics/Example6_KeyboardInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/a_basics/Example7_EscapeSequences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/a_basics/Example8_FormattedPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/b_arithmetic/Example1_Arithmetic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/b_arithmetic/Example2_AugmentedAssignment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/b_arithmetic/Example3_Narrowing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/b_arithmetic/Example4_Widening.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/b_arithmetic/Example5_MixedInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/b_arithmetic/Example6_MathExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/b_arithmetic/Example7_ParsingNumbersFromStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/c_decisions/Example1_RelationalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/c_decisions/Example2_LogicalOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/c_decisions/Example3_IfStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/c_decisions/Example4_ElseClauses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/c_decisions/Example5_ElseIfClauses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/c_decisions/Example6_StringComparison.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/c_decisions/Example7_Switches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/c_decisions/Example8_InlineIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/d_loops/Example1_WhileLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/d_loops/Example2_DoWhileLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/d_loops/Example3_Increment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/d_loops/Example4_Decrement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/d_loops/Example5_ForLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/d_loops/Example6_NestedLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/d_loops/Example7_LoopBranching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/d_loops/Example8_InfiniteForLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/d_loops/Example9_InfiniteWhileLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/e_random_numbers/Example1_Random.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/e_random_numbers/Example2_CoinToss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/e_random_numbers/Example3_Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/e_random_numbers/Example4_DiceSim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/f_arrays/ArrayExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/g_iteration/ForEachLoopIteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/g_iteration/ForLoopIteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/h_arrays_and_methods/ArrayArguments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/h_arrays_and_methods/ReturningArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/h_arrays_and_methods/VarArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/i_common_array_operations/ArrayCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/i_common_array_operations/ArrayDecreaseSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/i_common_array_operations/ArrayEquality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/i_common_array_operations/ArrayIncreaseSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/j_multidimensional_arrays/MultidimensionalArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module0/src/SampleCode/j_multidimensional_arrays/MultidimensionalArrays2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/Lab/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/Lab/CarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/a_pyramid/Pyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/a_pyramid/PyramidTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/a_pyramid/PyramidTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/b_rectangle/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/b_rectangle/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/c_bicycle/Bicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/c_bicycle/BicycleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/d_rectangle/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/d_rectangle/RectangleCloneMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/d_rectangle/RectangleCopyConstructorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/d_rectangle/RectangleEqualityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/d_rectangle/RectangleOverloadingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/f_circle/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/f_circle/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/g_statics/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/g_statics/CalculateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/g_statics/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module1/src/SampleCode/g_statics/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/Labs/DaysOfWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/Labs/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/Labs/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/SampleCode/a_aggregation/Bicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/SampleCode/a_aggregation/BicycleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/SampleCode/a_aggregation/Tire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/SampleCode/b_inner_classes/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/SampleCode/b_inner_classes/CarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/SampleCode/c_array_of_objects/Pyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/SampleCode/c_array_of_objects/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/SampleCode/c_array_of_objects/RectangleArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2/src/SampleCode/d_enumerators/Compass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/Lab/CargoShip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/Lab/CruiseShip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/Lab/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/Lab/ShipTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/a_inheritance/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/a_inheritance/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/a_inheritance/HourlyEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/a_inheritance/Supervisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/b_polymorphism/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/b_polymorphism/HourlyEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/b_polymorphism/Staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/b_polymorphism/StaffTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/b_polymorphism/Supervisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/c_abstract_classes/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/c_abstract_classes/BirdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/c_abstract_classes/Owl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/d_interfaces/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/d_interfaces/Parrot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/d_interfaces/ParrotTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module3/src/SampleCode/d_interfaces/TalkingBird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/src/Lab/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/src/Lab/CarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/src/SampleCode/Bicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/src/SampleCode/BicycleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/src/SampleCode/ValueFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module4/src/SampleCode/ValueFinderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode1/MyWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode1/MyWindow2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode1/WindowWithButtons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode1/WindowWithLabels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode1/a_DialogBoxes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode1/b_InputDialogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode1/c_ConfirmDialogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode1/d_BasicWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode1/e_RoundTwoDecimalsGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode2/WindowWithOneButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode2/WindowWithTextField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode2/WindowWithThreeButtons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode3/CheckBoxExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode3/RadioButtonExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode3/SliderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode4/BorderLayoutWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode4/FlowLayoutWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode4/GridLayoutWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode4/MultiplePanelWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode4/TextAreaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode5/FontExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode5/MenuExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode5/MnemonicExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode5/SubmenuExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode6/CanvasWithArcs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode6/CanvasWithLines.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode6/CanvasWithOvals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode6/CanvasWithPolygons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode6/CanvasWithRects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module5/src/SampleCode6/CanvasWithText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/src/Lab/UserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/src/SampleCode/HackettException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/src/SampleCode/a_TryCatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/src/SampleCode/b_ExceptionMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/src/SampleCode/c_StackTraces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/src/SampleCode/d_AnyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/src/SampleCode/e_MultipleException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/src/SampleCode/f_FinallyExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module6/src/SampleCode/g_ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/TestDirectory/SampleFile2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/TestDirectory/SampleFile3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/Labs/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/Labs/Cars.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/Labs/DeserializeCars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_BinaryFiles/ReadMixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_BinaryFiles/ReadNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_BinaryFiles/ReadUTF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_BinaryFiles/WriteMixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_BinaryFiles/WriteNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_BinaryFiles/WriteUTF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_RandomAccessFiles/ReadRandomData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_RandomAccessFiles/WriteRandomData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_Serialization/DeserializeObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_Serialization/InventoryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_Serialization/SerializeObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_TextFiles/DirectoryExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_TextFiles/FileMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_TextFiles/FileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_TextFiles/FileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module7/src/SampleCode_TextFiles/SampleFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab/CreateInventory2Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab/InventoryLab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/CreateInventoryTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/DeleteInventoryRecords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/DropInventoryTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/InsertInventoryRecords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/InsertInventoryRecords2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/SelectInventoryRecords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/TestConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleCode/UpdateInventoryRecords.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,17 +197,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -31,14 +225,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Community College of Philadelphia/Courses/CSCI211/Modules/Module3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI112\GIT\Modules\Module8\src" />
       <recent name="C:\Users\hacke\Documents\CCP\CSCI112\NoVCS\Module8\src" />
     </key>
   </component>
@@ -70,18 +265,14 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="DB Browser" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -89,14 +280,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="masterDetails">
